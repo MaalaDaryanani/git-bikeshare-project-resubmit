@@ -2,7 +2,7 @@
 Sept 26 '19.
 
 ### Project Title
-Git Bikeshare Project.
+Git Bikeshare Project (Resubmission v2).
 
 ### Description
 Analyze bikeshare data using Python.
