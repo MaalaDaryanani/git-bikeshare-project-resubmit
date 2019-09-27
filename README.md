@@ -12,5 +12,6 @@ bikeshare_project_3.py
 
 ### Credits
 https://github.com/MaalaDaryanani/pdsnd_github.git
+https://github.com/MaalaDaryanani/git-bikeshare-project-resubmit.git
 
 Additional change for Step 3.
