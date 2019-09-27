@@ -5,7 +5,7 @@ Sept 26 '19.
 Git Bikeshare Project (Resubmission v2).
 
 ### Description
-Analyze bikeshare data using Python.
+Analyze bikeshare data using Python for chicago, washington and new york city.
 
 ### Files used
 bikeshare_project_3.py
